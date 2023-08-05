@@ -1,0 +1,23 @@
+<RCC>
+  <qresource prefix="/">
+    <file>icon/del.webp</file>
+    <file>icon/addwindow.webp</file>
+    <file>icon/backupwindow.webp</file>
+    <file>icon/databasebackground3.webp</file>
+    <file>icon/sortwindow.webp</file>
+    <file>icon/databasebackground2.webp</file>
+    <file>icon/searchbackground.webp</file>
+    <file>icon/center.png</file>
+    <file>icon/people.png</file>
+    <file>icon/edit.png</file>
+    <file>icon/delete.png</file>
+    <file>icon/search.png</file>
+    <file>icon/add.png</file>
+    <file>icon/group.png</file>
+  </qresource>
+  <qresource>
+    <file>icon/databasebackground.webp</file>
+    <file>icon/searchbackground2.webp</file>
+    <file>icon/avgbackground.webp</file>
+  </qresource>
+</RCC>
